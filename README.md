@@ -1,5 +1,8 @@
 # Roadmap
-This is a roadmap visioned at this point. This could change in future. Suggestions and discussion is most welcome as we believe it will help improve this project in long term.
+
+> This is the project roadmap visioned at these very early stages. This could massively change in future.
+
+Suggestions and discussions are most welcome as we believe it will help improve this project in long term.
 
 - Add search
 - Add localization / translations
