@@ -1,0 +1,11 @@
+# Roadmap
+This is a roadmap visioned at this point. This could change in future. Suggestions and discussion is most welcome as we believe it will help improve this project in long term.
+
+- Add search
+- Add localization / translations
+- Add section about Armed Forces
+- Add section about geography
+
+# How to participate?
+Open an [issue](https://github.com/pklocal/roadmap/issues/new) with your idea, suggestion or criticism for an open discussion.
+ 
